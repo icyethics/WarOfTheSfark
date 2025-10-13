@@ -1,0 +1,13 @@
+{
+	"id": "war",
+	"name": "War of the Sfark",
+	"display_name": "WotSfark",
+	"author": ["notmario", "IcyEthics"],
+	"description": "A mod focused on the Planeswalker joker subtype.",
+	"prefix": "war",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "994ad6",
+	"version": "0.0.1",
+	"dependencies": ["Steamodded (>=1.0.0~BETA-0827a)", "Lovely (>=0.8)", "RudeBuster (>=1.0.3)"],
+}
